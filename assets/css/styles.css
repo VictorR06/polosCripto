@@ -373,6 +373,7 @@ button{
   border-radius: .5rem;
   font-weight: var(--font-medium);
   transition: .3s;
+  cursor: pointer;
 }
 
 .button:hover{
@@ -568,6 +569,7 @@ button{
 
 .new__subtitle{
   display: block;
+  padding: 0 1rem;
   font-size: var(--small-font-size);
   margin-bottom: var(--mb-0-5);
 }
